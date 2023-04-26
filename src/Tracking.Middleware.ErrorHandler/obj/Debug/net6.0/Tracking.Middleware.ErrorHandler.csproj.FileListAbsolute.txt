@@ -1,0 +1,12 @@
+C:\Users\Developer\Documents\a - TestProject\CSharp\Tracking-errorhandler-middleware\src\Tracking.Middleware.ErrorHandler\bin\Debug\net6.0\Tracking.Middleware.ErrorHandler.deps.json
+C:\Users\Developer\Documents\a - TestProject\CSharp\Tracking-errorhandler-middleware\src\Tracking.Middleware.ErrorHandler\bin\Debug\net6.0\Tracking.Middleware.ErrorHandler.dll
+C:\Users\Developer\Documents\a - TestProject\CSharp\Tracking-errorhandler-middleware\src\Tracking.Middleware.ErrorHandler\bin\Debug\net6.0\Tracking.Middleware.ErrorHandler.pdb
+C:\Users\Developer\Documents\a - TestProject\CSharp\Tracking-errorhandler-middleware\src\Tracking.Middleware.ErrorHandler\obj\Debug\net6.0\Tracking.Middleware.ErrorHandler.csproj.AssemblyReference.cache
+C:\Users\Developer\Documents\a - TestProject\CSharp\Tracking-errorhandler-middleware\src\Tracking.Middleware.ErrorHandler\obj\Debug\net6.0\Tracking.Middleware.ErrorHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer\Documents\a - TestProject\CSharp\Tracking-errorhandler-middleware\src\Tracking.Middleware.ErrorHandler\obj\Debug\net6.0\Tracking.Middleware.ErrorHandler.AssemblyInfoInputs.cache
+C:\Users\Developer\Documents\a - TestProject\CSharp\Tracking-errorhandler-middleware\src\Tracking.Middleware.ErrorHandler\obj\Debug\net6.0\Tracking.Middleware.ErrorHandler.AssemblyInfo.cs
+C:\Users\Developer\Documents\a - TestProject\CSharp\Tracking-errorhandler-middleware\src\Tracking.Middleware.ErrorHandler\obj\Debug\net6.0\Tracking.Middleware.ErrorHandler.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Documents\a - TestProject\CSharp\Tracking-errorhandler-middleware\src\Tracking.Middleware.ErrorHandler\obj\Debug\net6.0\Tracking.Middleware.ErrorHandler.dll
+C:\Users\Developer\Documents\a - TestProject\CSharp\Tracking-errorhandler-middleware\src\Tracking.Middleware.ErrorHandler\obj\Debug\net6.0\refint\Tracking.Middleware.ErrorHandler.dll
+C:\Users\Developer\Documents\a - TestProject\CSharp\Tracking-errorhandler-middleware\src\Tracking.Middleware.ErrorHandler\obj\Debug\net6.0\Tracking.Middleware.ErrorHandler.pdb
+C:\Users\Developer\Documents\a - TestProject\CSharp\Tracking-errorhandler-middleware\src\Tracking.Middleware.ErrorHandler\obj\Debug\net6.0\ref\Tracking.Middleware.ErrorHandler.dll
